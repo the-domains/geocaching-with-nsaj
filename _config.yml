@@ -1,0 +1,28 @@
+name: Geocaching with NSAJ
+favicon: null
+layout_spectrum: 0.7009189147502184
+typography_spectrum: 0.9322552329394966
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.21752303885295987
+  lightness: 0.8939547599293292
+  saturation: 0.2348780541215092
+  rhythmicContrast: 0.9060034542344511
+purpose: []
